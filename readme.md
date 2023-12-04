@@ -11,7 +11,7 @@ git clone https://github.com/ayaniegain/fullstack-crud-project.git
 ```
 ## 2 move to frontend
 ```bash
-cd fullstack-crud-projec/frontend
+cd fullstack-crud-project/frontend
 ```
 ## 3 Install Dependencies frontend.
 
