@@ -148,7 +148,6 @@ console.log("eid");
 
   }
 
-  console.log(check)
 
 
 
